@@ -1,0 +1,266 @@
+{
+  "bots": [],
+  "fish": {
+    "webhook": ""
+  },
+  "geiger": {
+    "scan_worlds": [],
+    "storage_worlds": [],
+    "webhook": ""
+  },
+  "parkour": {
+    "webhook": ""
+  },
+  "proxy_tab": {
+    "auto_check": false,
+    "auto_switch": false,
+    "bots_per_proxy": 0,
+    "cooldown": 1800,
+    "http_cooldown": 0,
+    "http_proxies": [
+      "108.181.132.116:15237"
+    ],
+    "max_http_timeout": 5,
+    "proxies": [
+      "212.83.142.149:60852",
+      "212.83.143.49:53173"
+    ],
+    "spread_proxies": true,
+    "switch_on_ban": false,
+    "switch_on_shadow": false,
+    "use_rotate": true
+  },
+  "rotation": {
+    "farms": [
+      {
+        "name": "NBMXWSRXRV:PJECRGV:3004"
+      },
+      {
+        "name": "KJVLGKHMFO:XDVBDTM:3004"
+      },
+      {
+        "name": "AJRENLPMSW:BPIBEXY:3004"
+      },
+      {
+        "name": "LQCUGTEHLC:DEAVBSD:3004"
+      },
+      {
+        "name": "NHVIEWGRKC:FVNQQZX:3004"
+      },
+      {
+        "name": "WQWQPDYLQP:SFLTMVM:3004"
+      },
+      {
+        "name": "WAIUMHZTSB:GNQKFRA:3004"
+      },
+      {
+        "name": "QMYSNNYPNK:EWCGJME:3004"
+      },
+      {
+        "name": "VGMZLXPDBW:HFNGUHU:3004"
+      },
+      {
+        "name": "JPPWSIVWEW:XBPVXGF:3004"
+      },
+      {
+        "name": "MTVFXMTDOX:QPRAYJS:3004"
+      },
+      {
+        "name": "AUKRTMWPPS:PMBWGTE:3004"
+      },
+      {
+        "name": "YMXUDBLXVP:DZTUDIN:3004"
+      },
+      {
+        "name": "BDMGSTNRTN:ZFDRRGA:3004"
+      },
+      {
+        "name": "FVUEFTOKLN:QPARXOT:3004"
+      },
+      {
+        "name": "ACZZGOPLSQ:MXMLKIE:3004"
+      },
+      {
+        "name": "ZDEEGUABVS:VUKXNQV:3004"
+      },
+      {
+        "name": "VBPJWCALFX:HJBCWGL:3004"
+      },
+      {
+        "name": "ARKMWSWSWO:EPDPTWF:3004"
+      },
+      {
+        "name": "AXESZIMICD:LYPRPEC:3004"
+      },
+      {
+        "name": "SEUDLYWHZE:PNNPYEK:3004"
+      },
+      {
+        "name": "NZHWMIXXDQ:AIZKZZZ:3004"
+      },
+      {
+        "name": "KCNVNWTDJQ:MXPHVHM:3004"
+      },
+      {
+        "name": "SPFCMDVIEY:RCGQLSK:3004"
+      },
+      {
+        "name": "KAUSJHVYFD:MWOKOLW:3004"
+      },
+      {
+        "name": "HMPHTEMTJL:DZYFNDM:3004"
+      },
+      {
+        "name": "LHZRJRBMOM:LZGYNWY:3004"
+      },
+      {
+        "name": "RSVWOWALKT:YFRISEW:3004"
+      },
+      {
+        "name": "JXHYDDTLIF:TJCNMTF:3004"
+      },
+      {
+        "name": "JLSCUKYLKY:OXCKSWS:3004"
+      },
+      {
+        "name": "LHUFQMOAKX:KGXRFJX:3004"
+      },
+      {
+        "name": "XWWQFTVNZN:KTIGJKH:3004"
+      },
+      {
+        "name": "ZEPZSPKDYW:FMTCDCN:3004"
+      },
+      {
+        "name": "GDNCOUDGVR:VYGEVSE:3004"
+      },
+      {
+        "name": "DWTSXSXRSX:OZBGNZB:3004"
+      },
+      {
+        "name": "JHSZIHVMHO:OIZXUXA:3004"
+      },
+      {
+        "name": "ISZWGLHPBA:QKOQMTU:3004"
+      },
+      {
+        "name": "EKGSMGOZDO:UCYZKEK:3004"
+      },
+      {
+        "name": "BNSHYJOZKH:TIPTPOG:3004"
+      },
+      {
+        "name": "VKWIDAUXJV:CCGBPCL:3004"
+      },
+      {
+        "name": "ZFKWFVHARF:LGWAKJY:3004"
+      },
+      {
+        "name": "CAJIGRGHOD:NAJYXFB:3004"
+      },
+      {
+        "name": "TLQVZGSSDL:YEEUHNN:3004"
+      },
+      {
+        "name": "AZWHGIUMIJ:UBFCMSH:3004"
+      },
+      {
+        "name": "NULMAEGRHV:YERQKEU:3004"
+      },
+      {
+        "name": "JODSLJADRO:ENFQEOI:3004"
+      },
+      {
+        "name": "PDBGIZQZFC:WPZYBCN:3004"
+      },
+      {
+        "name": "PFAUKFEHRL:RYXEGYP:3004"
+      },
+      {
+        "name": "FENWOFNR:ORCAS:3004"
+      },
+      {
+        "name": "VCHBHRKH:ORCAS:3004"
+      },
+      {
+        "name": "CMUTJYYU:ORCAS:3004"
+      },
+      {
+        "name": "WIBMHXZR:ORCAS:3004"
+      },
+      {
+        "name": "THFQWGVF:ORCAS:3004"
+      },
+      {
+        "name": "QQZXIUKZ:ORCAS:3004"
+      },
+      {
+        "name": "CLOZUYSW:ORCAS:3004"
+      }
+    ],
+    "max_seed_ratio": 90.0,
+    "min_seed_ratio": 0.0,
+    "send_webhook": true,
+    "storages": [
+      {
+        "id": 0,
+        "name": "EU092SA8XR:I5TISDMPHS",
+        "type": 0
+      },
+      {
+        "id": 3005,
+        "name": "9Y352LZB4G:TX63KWYZRO",
+        "type": 1
+      }
+    ],
+    "webhook": "https://discord.com/api/webhooks/1239921321337683969/lEJhVYMRu3Nu91JXulPzEYO5_l_0Wv4Je2FFOgA70QbSxWSV-HloZFIfscQvT9IG3eQ6"
+  },
+  "settings": {
+    "auto_update_items": false,
+    "captcha_api": 0,
+    "captcha_api_key": "",
+    "disconnect_all_on_mod": true,
+    "fps": 15,
+    "localize_proxy": false,
+    "theme": 3,
+    "trash_limit": 100,
+    "trash_list": [
+      5024,
+      5026,
+      5028,
+      5032,
+      5034,
+      5036,
+      5038,
+      5040,
+      5042,
+      5044,
+      7162,
+      7164
+    ]
+  },
+  "switch": {
+    "auto_switch": false,
+    "bots": [],
+    "drop_on_switch": false,
+    "force_tutorial": false,
+    "force_wear": false,
+    "items": [],
+    "loop_mode": false,
+    "max_level": 125,
+    "max_playtime": 2592000,
+    "max_runtime": 2592000,
+    "on_aap": false,
+    "on_ban": false,
+    "on_captcha": false,
+    "on_immune": false,
+    "on_irradiated": false,
+    "on_level": false,
+    "on_playtime": false,
+    "on_runtime": false,
+    "on_zombie": false,
+    "rest": false,
+    "rest_time": 60,
+    "storage": ""
+  }
+}
